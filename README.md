@@ -1,2 +1,2 @@
-# pandas
-Learning pandas
+# Data Visualization
+Learning data science techniques
